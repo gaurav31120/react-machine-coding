@@ -1,0 +1,11 @@
+body {
+  height:100vh;
+  justify-content:center;
+  align-items:center;
+  display:flex;
+}
+
+.input-btn {
+  display:flex;
+  gap:20px;
+}
