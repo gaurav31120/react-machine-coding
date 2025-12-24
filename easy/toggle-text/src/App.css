@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background-color: lightgreen;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  flex-direction:column;
+  gap: 20px;
+}
+
+.tooltip-box {
+  background-color: orange;
+
+}
+
+.tooltip {
+  justify-content:center;
+  display:flex;
+
+}
