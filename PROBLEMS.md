@@ -8,3 +8,6 @@
 5. Theme toggle (Light/Dark mode)
 6. Show/Hide password
 7. Character Counter
+
+## Medium
+1. Too do app -- simple -- add and delete functionality
