@@ -1,0 +1,15 @@
+body {
+  display:flex;
+  justify-content:center;
+  text-align:center;
+}
+
+.container {
+  justify-content:center;
+  align-content:center;
+  height:80vh;
+  display:flex;
+  flex-direction:column;
+  gap:40px;
+
+}

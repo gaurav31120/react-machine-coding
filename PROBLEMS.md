@@ -7,3 +7,4 @@
 4. Disable Button Based on Input
 5. Theme toggle (Light/Dark mode)
 6. Show/Hide password
+7. Character Counter
