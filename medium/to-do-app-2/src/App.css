@@ -1,0 +1,57 @@
+body {
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  align-items:center;
+
+}
+
+.container {
+  height:60px;
+  display:flex;
+  flex-direction:column;
+  gap:40px;
+
+}
+
+.input-btn {
+  display:flex;
+  gap:20px;
+}
+
+.input {
+  height:60px;
+  font-size:x-large;;
+}
+
+.button {
+  height:60px;
+}
+
+.list-delete-row {
+  display:flex;
+  justify-content:space-between;
+}
+
+.del-btn {
+  display:flex;
+  justify-content:flex-end;
+}
+
+.list-box {
+  display:flex;
+  flex-direction:column;
+  gap:40px;
+  margin-bottom:8px;
+  /* justify-content: ; */
+}
+
+.item-completed {
+  text-decoration:line-through;
+  color:gray;
+}
+
+.item-not-completed {
+  text-decoration:none;
+  color:black;
+}
