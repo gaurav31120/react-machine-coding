@@ -9,6 +9,7 @@
 6. Show/Hide password
 7. Character Counter
 8. Disable Button After Click (One-time Submit)
+9. Dropdown Select & Display Value
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
