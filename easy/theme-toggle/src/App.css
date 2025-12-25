@@ -1,0 +1,39 @@
+/* body{
+  justify-content:center; 
+   display:flex;
+  align-items:center;
+  text-align:center;
+}  */
+
+.container {
+  height:80vh;
+  justify-content:center;
+  display:flex;
+  align-items:center;
+  flex-direction:column;
+  gap:20px;
+  font-size:x-large;
+}
+.text-light {
+  color:black;
+  justify-content:center; 
+   display:flex;
+  align-items:center;
+  text-align:center;
+}
+.text-dark{
+  color:white;
+  justify-content:center; 
+   display:flex;
+  align-items:center;
+  text-align:center;
+}
+.bg-light {
+  background-color: white;
+}
+.bg-dark {
+  background-color:black;
+}
+.button {
+  height:40px;
+}
