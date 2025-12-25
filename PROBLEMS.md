@@ -8,6 +8,7 @@
 5. Theme toggle (Light/Dark mode)
 6. Show/Hide password
 7. Character Counter
+8. Disable Button After Click (One-time Submit)
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
