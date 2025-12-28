@@ -1,0 +1,34 @@
+body {
+}
+
+.tabs {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+}
+
+.tab-item {
+  border: solid 4px;
+  border-radius: 4px;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.contain-box {
+  margin: 60px;
+  /* border:dashed 2px; */
+  border-top: solid 4px;
+  font-size: 40px;
+}
+
+.active {
+  background: green;
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.not-active {
+  background-color: orange;
+  font-style: underline;
+}
