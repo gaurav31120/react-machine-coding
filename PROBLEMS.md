@@ -12,6 +12,7 @@
 9. Dropdown Select & Display Value
 10. Checkbox Toggle Text
 11. Button Click Counter with Limit
+12. Password Strength Indicator
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
