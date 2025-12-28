@@ -10,7 +10,8 @@
 7. Character Counter
 8. Disable Button After Click (One-time Submit)
 9. Dropdown Select & Display Value
-10.Checkbox Toggle Text
+10. Checkbox Toggle Text
+11. Button Click Counter with Limit
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
