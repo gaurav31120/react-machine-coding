@@ -13,4 +13,5 @@
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
-2. 
+2. Too do app-2 -- simple -- mark as completed functionality
+3. Too do app-3 -- simple -- edit functionality
