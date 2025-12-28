@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.list-items {
+  font-size: 40px;
+}
+
+.input {
+  height: 40px;
+}
