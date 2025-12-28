@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.checkbox {
+  display: flex;
+  flex-direction: column;
+}
+.input-label {
+  display: flex;
+  flex-direction: row;
+}
