@@ -1,0 +1,15 @@
+.title {
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.container {
+  margin-left: 60px;
+}
+
+.content {
+  font-size: 30px;
+  margin-left: 60px;
+  margin-bottom: 20px;
+  border: solid 1px green;
+}

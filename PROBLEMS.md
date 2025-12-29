@@ -23,3 +23,4 @@
 5. Search Filter List
 6. Show / Hide List
 7. Modal Component
+8. Accordion Component (Single Open)
