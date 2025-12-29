@@ -24,3 +24,4 @@
 6. Show / Hide List
 7. Modal Component
 8. Accordion Component (Single Open)
+9. Pagination (Basic)
