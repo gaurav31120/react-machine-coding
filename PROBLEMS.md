@@ -22,3 +22,4 @@
 4. Tabs  component
 5. Search Filter List
 6. Show / Hide List
+7. Modal Component
