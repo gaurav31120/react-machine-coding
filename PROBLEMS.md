@@ -14,6 +14,7 @@
 11. Button Click Counter with Limit
 12. Password Strength Indicator
 13. Disable / Enable Input Field
+15. Show / Hide List
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
