@@ -28,3 +28,4 @@
 
 ## Hard
 1. Multi-Select Checkbox List
+2. Select All / Unselect All Checkboxes
