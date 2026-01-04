@@ -17,6 +17,7 @@
 15. Show / Hide List
 16. Toggle Button Text (ON / OFF)
 17. Input Character Limit
+18. Button Group (Single Select)
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
