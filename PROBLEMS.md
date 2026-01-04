@@ -18,6 +18,7 @@
 16. Toggle Button Text (ON / OFF)
 17. Input Character Limit
 18. Button Group (Single Select)
+19. Radio Button Selection
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
