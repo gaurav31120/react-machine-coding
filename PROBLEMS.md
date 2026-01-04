@@ -16,6 +16,7 @@
 13. Disable / Enable Input Field
 15. Show / Hide List
 16. Toggle Button Text (ON / OFF)
+17. Input Character Limit
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
