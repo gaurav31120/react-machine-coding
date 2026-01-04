@@ -15,6 +15,7 @@
 12. Password Strength Indicator
 13. Disable / Enable Input Field
 15. Show / Hide List
+16. Toggle Button Text (ON / OFF)
 
 ## Medium
 1. Too do app -- simple -- add and delete functionality
